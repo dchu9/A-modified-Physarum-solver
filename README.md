@@ -1,2 +1,2 @@
 # A-modified-Physarum-solver
-multi-source and multi-sink
+This repository contains the source code for a modified physarum solver. The folder also contains the MATLAB code used to generate a random graph. 
